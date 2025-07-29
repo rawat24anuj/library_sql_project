@@ -1,5 +1,5 @@
 # library_sql_project
-![Lib. Logo](Lib. Logo.jpg)
+![Lib. Logo](https://github.com/rawat24anuj/library_sql_project/blob/main/Lib.%20Logo.jpg?raw=true)
 
 ##Project Overview
 Project Title: Library Management System
