@@ -1,5 +1,5 @@
 # library_sql_project
-![Lib. Logo]("C:\Users\asus\OneDrive\Desktop\Lib. Logo.jpeg")
+![Lib. Logo](C:\Users\asus\OneDrive\Desktop\Lib. Logo.jpeg)
 
 ##Project Overview
 Project Title: Library Management System
